@@ -1,0 +1,12 @@
+.cabeçalho { 
+    background-color: #5EE43D;
+}
+.cabeçalho-titulo{
+    color: #161616ea;
+}
+.cabeçalho.imagem{
+    width: 60px;
+}
+.cabeçalho-lista{
+    color: black;
+}
